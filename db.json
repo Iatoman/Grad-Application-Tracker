@@ -1,0 +1,11 @@
+{
+  "applications": [
+    {
+      "company": "Boohoo",
+      "role": "SWE",
+      "deadline": "2023-10-28",
+      "applied": false,
+      "id": 1
+    }
+  ]
+}
